@@ -2,6 +2,10 @@
 
 Below we demonstrate some data markdown (.dmd) capabilities. See https://github.com/capta-studio/blog1 for all the files used in generating this page, especially `README.md`.
 
+
+This is the summary of our stat RESULTS:
+
+
 ### Table from inline CSV
 ```{csv}
 id,first_name,last_name
